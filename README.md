@@ -20,10 +20,11 @@ Before you begin, ensure you have the following tools installed on your machine:
 - Node.js: [Download and Install Node.js](https://nodejs.org/)
 - npm (Node Package Manager): This comes with Node.js, so you don't need to install it separately.
 
-Project Structure
+### Project Structure
 client: Contains the front-end code built with Vite and React.js.
 server: Includes the back-end code responsible for handling API requests and communication with the OpenAI GPT-3.5 model.
-Technologies Used
+
+### Technologies Used
 Vite: Fast React development with instant server start.
 React.js: A JavaScript library for building user interfaces.
 Node.js: A JavaScript runtime for server-side development.
